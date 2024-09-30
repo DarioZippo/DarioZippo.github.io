@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[835],{4703:function(n,u,t){"use strict";t.r(u);var _=t(6744),c=t(5893);u.default=function(){return(0,c.jsx)(_.X,{})}},2604:function(n,u,t){(window.__NEXT_P=window.__NEXT_P||[]).push(["/2DProjects",function(){return t(4703)}])}},function(n){n.O(0,[523,112,390,623,888,774,179],function(){return n(n.s=2604)}),_N_E=n.O()}]);
