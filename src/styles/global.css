@@ -1,0 +1,28 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+.inline-block{
+  display:inline-block;
+}
+
+.skills-icons{
+  max-width: 75px;
+  margin: auto;
+  margin-inline: 50px;
+}
+
+.major-projects{
+  border-style: solid;
+
+  border-top-color: rgb(30 41 59);
+  border-top-width: 0.5em;
+
+  padding-top: 1.5em;
+}
+
+.minor-projects{
+  padding-bottom: 3rem;
+}
