@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" version="1.1" id="svg5" xmlns="http://www.w3.org/2000/svg">
+  <defs id="defs2">
+    <marker style="overflow:visible;" id="marker57827" refX="0.0" refY="0.0" orient="auto">
+      <path transform="scale(0.6) rotate(180) translate(0,0)" d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z " style="stroke:context-stroke;fill-rule:evenodd;fill:context-stroke;stroke-width:0.62500000;stroke-linejoin:round;" id="path57825"/>
+    </marker>
+    <marker style="overflow:visible" id="Arrow2Mstart" refX="0.0" refY="0.0" orient="auto">
+      <path transform="scale(0.6) translate(0,0)" d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z " style="stroke:context-stroke;fill-rule:evenodd;fill:context-stroke;stroke-width:0.62500000;stroke-linejoin:round" id="path55034"/>
+    </marker>
+    <rect x="264.18915" y="152.38943" width="277.71905" height="377.41307" id="rect30268"/>
+    <rect x="71.922114" y="145.98053" width="96.133519" height="159.51043" id="rect24600"/>
+    <rect x="41.301808" y="130.31433" width="79.043115" height="136.72323" id="rect12098"/>
+    <rect x="107.52712" y="106.10292" width="331.12656" height="322.58136" id="rect7472"/>
+    <rect x="107.52712" y="106.10292" width="331.12656" height="322.58136" id="rect178"/>
+    <rect x="41.301808" y="130.31433" width="79.043115" height="136.72323" id="rect180"/>
+    <rect x="71.922114" y="145.98053" width="96.133519" height="159.51043" id="rect182"/>
+    <rect x="264.18915" y="152.38943" width="277.71905" height="377.41307" id="rect184"/>
+  </defs>
+  <g id="layer4" style="display:none">
+    <circle style="fill:#b0b0b0;fill-opacity:1;fill-rule:evenodd" id="path31" cx="256" cy="256" r="256"/>
+  </g>
+  <g id="layer2">
+    <rect style="fill-opacity: 1; fill: rgba(24, 25, 29, 0.753);" id="rect53641" width="512" height="512" x="0" y="0" rx="120" ry="120"/>
+  </g>
+  <g id="layer3" style="display:none">
+    <path style="display:inline;fill:none;stroke:#ffffff;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker57827);marker-start:url(#Arrow2Mstart)" d="M 480,400 H 45 V 95" id="path55008-3"/>
+  </g>
+  <g id="layer1" style="display:none">
+    <text id="text7470" style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect7472);display:inline;fill:#000000;fill-opacity:1;stroke:none"/>
+    <text id="text12096" style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect12098);display:inline;fill:#000000;fill-opacity:1;stroke:none"/>
+    <text style="font-style: normal; font-weight: normal; font-size: 40px; line-height: 1.25; font-family: sans-serif; fill: rgb(0, 0, 0); fill-opacity: 1; stroke: none; white-space: pre;" x="81.179413" y="198.67593" id="text12632"><tspan id="tspan12630" x="81.179413" y="198.67593" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#ff1010;fill-opacity:1"/></text>
+    <text id="text24598" style="font-size:40px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:Nunito;white-space:pre;shape-inside:url(#rect24600);display:inline"/>
+    <text style="font-size: 293.333px; line-height: 1.25; font-family: Nunito; fill: rgb(255, 255, 255); white-space: pre;" x="54.48003" y="354.85309" id="text25068"><tspan id="tspan25066" x="54.48003" y="354.85309" style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:293.333px;font-family:Nunito;-inkscape-font-specification:'Nunito Semi-Bold';fill:#ffffff;fill-opacity:1">D</tspan></text>
+    <text id="text30266" style="font-size:293.333px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:Nunito;white-space:pre;shape-inside:url(#rect30268);display:inline" transform="translate(-2.0827666,-51.034644)"><tspan x="264.18945" y="406.47441" id="tspan324"><tspan style="fill:#ffffff" id="tspan322">Z</tspan></tspan></text>
+  </g>
+  <g id="g176" style="display:inline">
+    <g aria-label="D" id="text168" style="font-size:293.333px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#ffffff">
+      <text style="font-family: Arial, sans-serif; font-size: 28px; white-space: pre;" transform="matrix(9.018504, 0, 0, 10.260751, -605.681772, -1181.939593)" x="74.437" y="149.757">D</text>
+      <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px;" x="96.083" y="139.596"> </text>
+      <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px;" x="760.048" y="198.35"> </text>
+      <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px;" x="648.725" y="258.43"> </text>
+    </g>
+    <g aria-label="Z" transform="translate(-2.0827666,-51.034644)" id="text174" style="font-size:293.333px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:Nunito;white-space:pre;shape-inside:url(#rect184)">
+      <path d="m 289.41609,406.47441 q -4.69333,0 -7.62666,-1.76 -2.93333,-2.05333 -4.10666,-5.27999 -1.17333,-3.52 -0.29333,-7.62666 1.17333,-4.39999 4.69333,-8.79999 L 404.1093,211.11463 v 9.38665 H 287.65609 q -5.57332,0 -8.50665,-2.63999 -2.93333,-2.93333 -2.93333,-7.91999 0,-4.98666 2.93333,-7.62666 2.93333,-2.64 8.50665,-2.64 h 127.30653 q 4.69333,0 7.62666,2.05333 3.22666,1.76 4.10666,4.98666 1.17333,3.22667 0,7.62666 -0.88,4.4 -4.10666,8.79999 L 300.56275,394.74109 v -9.09332 h 120.55986 q 5.57333,0 8.50666,2.63999 2.93333,2.64 2.93333,7.62666 0,5.28 -2.93333,7.91999 -2.93333,2.64 -8.50666,2.64 z" style="fill:#ffffff" id="path193"/>
+    </g>
+  </g>
+</svg>
