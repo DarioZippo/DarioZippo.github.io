@@ -76,6 +76,12 @@ Error generating stack: `+o.message+`
   font-weight: medium;
   font-size: 1.25rem;
 
+  li {
+    flex-shrink: 0;
+    flex-grow: 0;
+    flex-basis: -moz-available;
+  }
+
   li:not(:first-child) {
     margin-top: 0;
   }
